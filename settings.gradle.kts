@@ -1,1 +1,1 @@
-rootProject.name = "com.community.world"
+rootProject.name = "world-community-server"
